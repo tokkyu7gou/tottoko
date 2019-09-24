@@ -1,0 +1,11 @@
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.csprojAssemblyReference.cache
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.csproj.CoreCompileInputs.cache
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.AssemblyInfoInputs.cache
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.AssemblyInfo.cs
+C:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.deps.json
+C:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.runtimeconfig.json
+C:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.runtimeconfig.dev.json
+c:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.dll
+c:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.pdb
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.dll
+c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.pdb
