@@ -31,9 +31,9 @@ namespace tottoko
 
         static void Main(string[] args)
         {
-            var tottoko = TOTTOTO. OrderBy((_) => { return Guid.NewGuid(); }).First();
-            var rokotyan = ROKOTYAN. OrderBy((_) => { return Guid.NewGuid(); }).First();
-            Console.WriteLine("それではお聞きください。とっととﾀﾋね太郎さんによる「とっととハムちゃんずうた」です。{tottoto}そしてロコちゃんは{rokotyan}");
-        }
+            var tottoko = TOTTOTO.OrderBy((_) => { return Guid.NewGuid(); }).First();
+            var rokotyan = ROKOTYAN.OrderBy((_) => { return Guid.NewGuid(); }).First();
+            Console.WriteLine( $"それではお聞きください。とっととﾀﾋね太郎さんによる「とっととハムちゃんずうた」です。「{tottoko}」そしてロコちゃんは「{rokotyan}」");
+            }
     };
 };

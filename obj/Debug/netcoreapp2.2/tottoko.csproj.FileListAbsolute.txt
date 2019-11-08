@@ -9,3 +9,14 @@ c:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\
 c:\Users\プログラミング 一木\Documents\tottoko\bin\Debug\netcoreapp2.2\tottoko.pdb
 c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.dll
 c:\Users\プログラミング 一木\Documents\tottoko\obj\Debug\netcoreapp2.2\tottoko.pdb
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.csprojAssemblyReference.cache
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.csproj.CoreCompileInputs.cache
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.AssemblyInfoInputs.cache
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.AssemblyInfo.cs
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.dll
+c:\Users\hp\Documents\GitHub\tottoko\obj\Debug\netcoreapp2.2\tottoko.pdb
+C:\Users\hp\Documents\GitHub\tottoko\bin\Debug\netcoreapp2.2\tottoko.deps.json
+C:\Users\hp\Documents\GitHub\tottoko\bin\Debug\netcoreapp2.2\tottoko.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\tottoko\bin\Debug\netcoreapp2.2\tottoko.runtimeconfig.dev.json
+c:\Users\hp\Documents\GitHub\tottoko\bin\Debug\netcoreapp2.2\tottoko.dll
+c:\Users\hp\Documents\GitHub\tottoko\bin\Debug\netcoreapp2.2\tottoko.pdb

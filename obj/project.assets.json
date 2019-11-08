@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\プログラミング 一木\\.nuget\\packages\\": {},
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\プログラミング 一木\\Documents\\tottoko\\tottoko.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\tottoko\\tottoko.csproj",
       "projectName": "tottoko",
-      "projectPath": "C:\\Users\\プログラミング 一木\\Documents\\tottoko\\tottoko.csproj",
-      "packagesPath": "C:\\Users\\プログラミング 一木\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\プログラミング 一木\\Documents\\tottoko\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\tottoko\\tottoko.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\tottoko\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\プログラミング 一木\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
